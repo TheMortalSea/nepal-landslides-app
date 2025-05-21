@@ -1,6 +1,4 @@
-## [Nepal Landslide Risk]
-
-![Documentation]((https://maheer-maps.github.io/CASA25_Rasternauts/))
+## Nepal Landslide Risk
 
 ### Overview
 
